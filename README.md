@@ -1,8 +1,9 @@
 # Hola, soy Mariana 👩‍💻
 
-Apasionada del mundo de los datos y la tecnología. Vivo en Córdoba, Argentina, y recientemente completé una carrera intensiva en **Data Science** en **Henry**. A lo largo de mi trayectoria, he combinado mi experiencia en **supervisión educativa** y **ventas** con mi formación en ciencia de datos, desarrollando habilidades clave en **comunicación**, **resolución de problemas**, **organización** y **análisis**.
+Apasionada del mundo de los datos y la tecnología. Vivo en Córdoba, Argentina.  
+A lo largo de mi trayectoria, he combinado mi experiencia en **supervisión educativa** y **ventas** con mi formación en analisis de datos, desarrollando habilidades clave en **comunicación**, **resolución de problemas**, **organización** y **análisis**.
 
-Mi objetivo es transformar **datos** en **decisiones estratégicas**. A través de mi formación en Data Science y mi experiencia previa, busco aportar valor a equipos que enfrenten desafíos relacionados con el análisis y manejo de datos.  
+Mi objetivo es transformar **datos** en **decisiones estratégicas**. A través de mi formación en Data Analitycs y mi experiencia previa, busco aportar valor a equipos que enfrenten desafíos relacionados con el análisis y manejo de datos.  
 
 ### Herramientas y Tecnologías:
 
