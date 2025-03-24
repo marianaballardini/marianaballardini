@@ -16,7 +16,7 @@ Mi objetivo es transformar **datos** en **decisiones estratégicas**. A través 
 
 A través de este repositorio en GitHub, comparto mis proyectos y soluciones técnicas desarrolladas durante mi formación y experiencia laboral. Cada uno de estos proyectos refleja mi capacidad para abordar problemas complejos, colaborar en equipos multidisciplinarios y aplicar herramientas de análisis de datos para generar resultados significativos.
 
-Si estás interesad@ en trabajar conmigo o discutir alguna de mis soluciones, no dudes en contactarme. Estoy siempre dispuesta a nuevas oportunidades que me permitan aprender y seguir creciendo profesionalmente en el mundo de la **Data Engineering**, **Data Analysis** y **Data Science**.
+Si estás interesad@ en trabajar conmigo o discutir alguna de mis soluciones, no dudes en contactarme. Estoy siempre dispuesta a nuevas oportunidades que me permitan aprender y seguir creciendo profesionalmente en el mundo de **Data Analysis**.
 
 📧 **Correo**: marianaballardini@gmail.com  
 📞 **Teléfono**: +5493513986608
